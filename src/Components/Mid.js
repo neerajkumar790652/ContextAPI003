@@ -11,7 +11,7 @@ const Mid = () => {
         </h1>
         <p>
           Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
-          consectetur, adipisci velit
+          consectetur, adipisci vel
         </p>
       </div>
       <div id="inputField" className={isLight ? "light" : "dark"}>
