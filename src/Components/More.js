@@ -1,4 +1,4 @@
 const More = () => {
-  return <div>More</div>;
+  return <div>More Page</div>;
 };
 export default More;
