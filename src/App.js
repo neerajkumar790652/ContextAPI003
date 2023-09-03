@@ -23,7 +23,7 @@ export default function App() {
       <ThemeContext.Provider value={{ isLight, changeTheme }}>
         <Navbar />
         <Mid />
-        {/* <Input/> */}
+       
         <Routes>
           <Route path="/Home" element={<Home />} />
           <Route path="/About" element={<About />} />
